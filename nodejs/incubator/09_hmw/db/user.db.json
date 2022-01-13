@@ -1,0 +1,36 @@
+[
+    {
+      "name" : "Mintos",
+      "email" : "auro@well.com",
+      "password" : "$2b$10$zhgXo9zumBzmmPr4QM6Ft.VvSQS1p32E52ynvz5dKcm53VYiUf/Hm",
+      "userdomain" : "RETAIL"
+    },
+
+    {
+      "name" : "Gillian",
+      "email" : "G.Andersen@xmatter.com",
+      "password" : "$2b$10$0LYJOHldX1aSj4JbJirt3.8vQEmVJDa8Y0GwgaX8mEI4Ia722LXZ6",
+      "userdomain" : "INTERNAL"
+    },
+
+    {
+      "name" : "Constanza",
+      "email" : "Costa.Brava@gawk.com",
+      "password" : "$2b$10$JowSIFfGcaxzqZAMUAWsA.htYp4lmOuw.9lfi7woSYrCH2eHPX4IG",
+      "userdomain" : "B2B"
+    },
+
+    {
+      "name" : "Xander",
+      "email" : "Sander@freemail.com",
+      "password" : "$2b$10$Xr2E16BlUzv8JMWsdKLe4ehlQsc6XHgfATPOsDetNLIrHuS5rIPEe",
+      "userdomain" : "B2B"
+    },
+
+    {
+      "name" : "Oleksiy",
+      "email" : "Oleksiy.Slisenko@gmail.com",
+      "password" : "$2b$10$49V.PeeXwG4TfnvV2RkF5.39iAaiINKD16w4uqjRj9/lpIf7Rq.km",
+      "userdomain" : "INTERNAL"
+    }
+]

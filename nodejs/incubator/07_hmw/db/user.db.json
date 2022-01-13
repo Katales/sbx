@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mint",
+    "email": "auro@well.com",
+    "password": "asdfasdfhk",
+    "userdomain": "RETAIL"
+  },
+  {
+    "name": "Xander",
+    "email": "xander@gaze.su",
+    "password": "wTf01_&4",
+    "userdomain": "RETAIL"
+  },
+  {
+    "name": "Gillian",
+    "email": "one.gill@gawk.com",
+    "password": "wTf01_&4",
+    "userdomain": "B2B"
+  },
+  {
+    "name": "Gilian",
+    "email": "G.Andersen@xmatter.com",
+    "password": "qwE12&dj_&4",
+    "userdomain": "B2B"
+  }
+]

@@ -1,0 +1,29 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "Aisha",
+            "account": "01432001"
+        },
+        {
+            "id": 2,
+            "name": "Mata",
+            "account": "01432069"
+        },
+        {
+            "id": 3,
+            "name": "Arsen",
+            "account": "01432007"
+        },
+        {
+            "id": 4,
+            "name": "Inna",
+            "account": "01432003"
+        },
+        {
+            "id": 5,
+            "name": "Kolia",
+            "account": "01432002"
+        }
+    ]
+}

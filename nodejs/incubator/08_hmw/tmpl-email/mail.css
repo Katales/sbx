@@ -1,0 +1,13 @@
+body * {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.mail_body {
+    padding-left: 30px;
+    border-left: 2px solid grey;
+}
+.footnote {
+    margin-top: 10px;
+}

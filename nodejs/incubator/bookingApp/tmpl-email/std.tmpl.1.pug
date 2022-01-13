@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        style
+            include mail.css
+    body
+        div
+            p Hello #{userName} !
+
+        div.mail_body
+            block mail_body
+
+        div.footnote
+            |Hope, you liked it
+            br
+            |Best regards
+            br
+            br
+            a(href='https://google.com') Visit Google to find more
